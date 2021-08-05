@@ -119,6 +119,7 @@ ID	| Forma de pagamento
 ----	| -----
 1 	| Boleto Bancário
 9 	| Paypal
+11 	| Cartão Desconhecido
 13 	| Visa
 14	| Amex
 15 	| Mastercard
@@ -144,6 +145,7 @@ ID  | Status | Descrição
 7 | Atrasado | Contrato sem pagamento há mais de 3 dias após o vencimento.
 9 | Finalizado | Todos os pagamentos foram realizados. Não gera novas cobranças.
 10 | Trial | Contrato em período de trial.
+11 | Inadimplente | O cliente não está com os pagamentos em dia para esse contrato.
 
 ## Tabela de status de Jobzz
 
