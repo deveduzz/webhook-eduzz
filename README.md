@@ -132,6 +132,7 @@ ID	| Forma de pagamento
 24 	| Elo
 25 	| Paypal Internacional
 27 	| Múltiplos Cartões
+32	| PIX
 
 ## Tabela de status de contratos
 
